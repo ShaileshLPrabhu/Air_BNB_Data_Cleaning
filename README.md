@@ -1,4 +1,4 @@
-# TidyNest: Cleaning and Organizing Airbnb Data
+# TidyNest: Cleaning and Organizing Messy Airbnb Data
 
 Welcome to **TidyNest**, where we roll up our sleeves and give Airbnb data a thorough scrub! 🧼🏠
 
